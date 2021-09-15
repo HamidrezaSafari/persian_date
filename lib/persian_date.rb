@@ -1,3 +1,4 @@
+# this is a test commment
 require "date"
 
 class DateTime
